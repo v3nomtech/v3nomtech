@@ -1,5 +1,12 @@
-<h1 align="center">Hi 👋, I'm Venom</h1>
-<h3 align="center">A passionate frontend developer, Electronic Hobbyist</h3>
+<h1 align="center">Hi 👋, I'm V3nom</h1>
+<h3 align="center">A passionate frontend developer, Electronic Hobbyist ,IOT Dev And A Cybersecurity enthusiast with a strong background in information security. My journey in cybersecurity is fueled by a relentless pursuit of knowledge and a commitment to safeguarding digital assets against evolving threats. Certifications I have earned several prestigious certifications from ISC2, a globally recognized leader in cybersecurity training and certification. These certifications have equipped me with a deep understanding of various aspects of cybersecurity, including risk management, threat intelligence, and incident response. Current Learning In addition to my ISC2 certifications, I am currently expanding my expertise by taking the "Google Cybersecurity for Professionals" course. This course is enhancing my skills in advanced cybersecurity techniques and strategies, preparing me to tackle modern cybersecurity challenges effectively. Projects and Contributions On this GitHub profile, you will find a variety of projects and contributions that reflect my expertise in cybersecurity. From network security tools to scripts for automating security tasks, my repositories showcase my ability to apply theoretical knowledge to practical, real-world scenarios. Let's Connect I am always looking to connect with fellow cybersecurity enthusiasts, professionals, and organizations. Whether you have a question, a project idea, or just want to chat about the latest trends in cybersecurity, feel free to reach out!
+
+
+
+
+
+
+</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=v3nomtech&label=Profile%20views&color=0e75b6&style=flat" alt="v3nomtech" /> </p>
