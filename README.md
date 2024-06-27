@@ -19,7 +19,7 @@ I am a passionate frontend developer, electronic hobbyist, IoT developer, and cy
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=v3nomtech&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+###  Random  Meme
 <img src='https://i.imgflip.com/3kwur5.jpg' style="height: 400px;"/>
 
 ---
