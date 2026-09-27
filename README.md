@@ -1,28 +1,224 @@
-<h1 align="center">Hi 👋, I'm V3nom</h1>
-# 💫 About Me:
-I am a passionate frontend developer, electronic hobbyist, IoT developer, and cybersecurity enthusiast with a strong background in information security. My journey in cybersecurity is fueled by a relentless pursuit of knowledge and a commitment to safeguarding digital assets against evolving threats. In addition to my development work, I actively share cybersecurity insights and tips on Instagram, aiming to educate and empower individuals to protect their digital lives. I also create engaging YouTube videos focused on IoT projects, providing tutorials, demonstrations, and innovative solutions for electronic enthusiasts and developers. I have earned several prestigious certifications from ISC2 And Google.<br>On this GitHub profile, you will find a variety of projects and contributions that reflect my expertise in IOT,Web-dev,Programming and Cyber-sec. From network security tools to scripts for automating security tasks, my repositories showcase my ability to apply theoretical knowledge to practical, real-world scenarios. I am always looking to connect with fellow cybersecurity enthusiasts, professionals, and organizations. Whether you have a question, a project idea, or just want to chat about the latest trends in cybersecurity, feel free to reach out!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=180&section=header&text=V3NOM&fontSize=70&fontColor=00ff9c&fontAlignY=35&desc=Threat%20Hunter%20%E2%80%A2%20Threat%20Intel%20%E2%80%A2%20Reverse%20Engineer&descAlignY=58&descSize=18" width="100%"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/venom.tech.official) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@venomtechofficial) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23269816) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@venomelectronics) 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=620&lines=root%40v3nom%3A~%23+whoami;Threat+Hunter+%7C+Threat+Intelligence+Analyst;Reverse+Engineer+%7C+Security+Researcher;SOC+Analyst+%7C+CTF+Player+%7C+Bug+Hunter;Hunting+adversaries+before+they+hunt+you." alt="Typing SVG" /></a>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=flat&logo=github&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=flat&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=flat&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![Node-RED](https://img.shields.io/badge/Node--RED-%238F0000.svg?style=flat&logo=node-red&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%234FC08D) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=flat&logo=WordPress&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=flat&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat&logo=firebase&logoColor=ffcd34) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=flat&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Gitpod](https://img.shields.io/badge/gitpod-f06611.svg?style=flat&logo=gitpod&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat&logo=githubactions&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=flat&logo=ansible&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white) ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=flat&logo=espressif&logoColor=white) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat&logo=home-assistant&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=flat&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat&logo=kubernetes&logoColor=white) ![Pi-Hole](https://img.shields.io/badge/pihole-%2396060C.svg?style=flat&logo=pi-hole&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat&logo=splunk&logoColor=white) ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=flat&logo=tor-project&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat&logo=Trello&logoColor=white) ![Zigbee](https://img.shields.io/badge/zigbee-%23EB0443.svg?style=flat&logo=zigbee&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=v3nomtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=v3nomtech&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=v3nomtech&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+<a href="https://x.com/venom_tech_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
+<a href="https://medium.com/@venomtechofficial"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+<a href="https://app.hackthebox.com/users/588340"><img src="https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00"/></a>
+<a href="https://tryhackme.com/p/CYbErXV3nOm"><img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/></a>
+<a href="https://instagram.com/venom.tech.official"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://youtube.com/@venomelectronics"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<img src="https://komarev.com/ghpvc/?username=v3nomtech&label=Profile%20views&color=00ff9c&style=flat-square" />
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=v3nomtech&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-###  Random  Meme
-<img src='https://i.imgflip.com/3kwur5.jpg' style="height: 400px;"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=v3nomtech&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## `$ cat about.txt`
+
+```yaml
+name        : V3nom
+location    : India 🇮🇳
+role        : [Threat Hunter, Threat Intelligence Analyst, Reverse Engineer, Security Researcher]
+background  : SOC operations — alert triage, incident response, detection engineering
+focus       :
+  - Hypothesis-driven threat hunting across endpoint, network & identity telemetry
+  - Tracking threat actors, C2 infrastructure & IOCs → turning intel into detections
+  - Malware analysis & reverse engineering (static + dynamic)
+  - Offensive security, AD attacks & bug bounty
+motto       : "Think like the adversary. Hunt like the defender."
+```
+
+- 🔎 **Threat Hunting** — KQL / SPL hunts mapped to **MITRE ATT&CK**, detection engineering with Sigma & YARA
+- 🧠 **Threat Intelligence** — CVE / KEV / EPSS triage, IOC enrichment, C2 tracking, actor TTP profiling
+- 🧬 **Reverse Engineering** — unpacking, deobfuscation and dissecting malware samples in Ghidra / IDA / x64dbg
+- 🛡️ **SOC** — hands-on Blue Team experience with SIEM, EDR and incident response workflows
+- 🏆 **CTFs & Bug Bounty** — multiple CTF wins, **Hall of Fame** listings and valid bounties across programs
+
+---
+
+## `$ ls ./certifications`
+
+<div align="center">
+
+| Certification | Issuer | Domain |
+|:---:|:---:|:---:|
+| **CPTS** — Certified Penetration Testing Specialist | Hack The Box | Offensive / AD |
+| **CJCA** — Certified Junior Cybersecurity Associate | Hack The Box | Offensive + Defensive |
+| **SC-200** — Security Operations Analyst Associate | Microsoft | SOC / Sentinel / Defender |
+| **eJPT** — eLearnSecurity Junior Penetration Tester | INE | Penetration Testing |
+
+<br/>
+
+<img src="https://img.shields.io/badge/HTB-CPTS-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTB-CJCA-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/INE-eJPT-E11D2E?style=for-the-badge"/>
+
+</div>
+
+### 🧪 Hack The Box Pro Labs
+
+<div align="center">
+
+| Pro Lab | Focus | Status |
+|:---:|:---|:---:|
+| **Dante** | Network pivoting, Linux & Windows exploitation, enterprise lateral movement | ✅ Completed |
+| **RastaLabs** | Red-team ops, Active Directory, phishing, AV evasion, persistence | ✅ Completed |
+
+<img src="https://img.shields.io/badge/Pro%20Lab-Dante-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+<img src="https://img.shields.io/badge/Pro%20Lab-RastaLabs-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black"/>
+
+</div>
+
+---
+
+## `$ ./achievements --list`
+
+```diff
++ 🏆 Winner / podium finishes in multiple CTF competitions
++ 🎖️ Multiple Hall of Fame acknowledgements for responsibly disclosed vulnerabilities
++ 💰 Rewarded bug bounties across public & private programs
++ 🧪 HTB Pro Labs: Dante & RastaLabs completed
++ 🎓 CPTS · CJCA · SC-200 · eJPT certified
+```
+
+<!--
+  Tip: list specific wins here, e.g.
+  | Event | Result | Year |
+  |---|---|---|
+  | <CTF name> | 🥇 1st | 2025 |
+-->
+
+---
+
+## `$ ls ./arsenal`
+
+**🔵 Blue Team / Threat Hunting / DFIR**
+
+<p>
+<img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Defender%20XDR-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Elastic-005571?style=flat-square&logo=elastic&logoColor=white"/>
+<img src="https://img.shields.io/badge/KQL-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Sigma-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/YARA-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Velociraptor-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/MITRE%20ATT%26CK-E4002B?style=flat-square"/>
+</p>
+
+**🧠 Threat Intelligence**
+
+<p>
+<img src="https://img.shields.io/badge/MISP-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCTI-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/VirusTotal-394EFF?style=flat-square&logo=virustotal&logoColor=white"/>
+<img src="https://img.shields.io/badge/Shodan-B80000?style=flat-square"/>
+<img src="https://img.shields.io/badge/OSINT-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/abuse.ch-5E5E5E?style=flat-square"/>
+</p>
+
+**🧬 Reverse Engineering / Malware Analysis**
+
+<p>
+<img src="https://img.shields.io/badge/Ghidra-D22128?style=flat-square"/>
+<img src="https://img.shields.io/badge/IDA-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/x64dbg-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/dnSpy-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/REMnux-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/FLARE--VM-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Volatility-5E5E5E?style=flat-square"/>
+</p>
+
+**🔴 Offensive Security**
+
+<p>
+<img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white"/>
+<img src="https://img.shields.io/badge/BloodHound-C0392B?style=flat-square"/>
+<img src="https://img.shields.io/badge/Impacket-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Nmap-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=flat-square&logo=windows&logoColor=white"/>
+</p>
+
+**💻 Languages**
+
+<p>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
+<img src="https://img.shields.io/badge/Assembly-5E5E5E?style=flat-square"/>
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+</p>
+
+---
+
+## `$ ./projects --featured`
+
+<div align="center">
+
+<a href="https://github.com/v3nomtech/V3nom-Intel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v3nomtech&repo=V3nom-Intel&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+</a>
+<a href="https://github.com/v3nomtech/v3nomEyE">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=v3nomtech&repo=v3nomEyE&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+</a>
+
+</div>
+
+| Project | Description |
+|---|---|
+| 🛰️ **[V3nom-Intel](https://github.com/v3nomtech/V3nom-Intel)** | Open-source threat intelligence console — live CVEs (NVD), CISA KEV, EPSS scores, abuse.ch IOCs, active C2 servers on a global map, breaches and infosec news in one dashboard. |
+| 👁️ **[v3nomEyE](https://github.com/v3nomtech/v3nomEyE)** | Automated bug bounty framework — a 17-phase recon pipeline covering XSS, SQLi, SSRF, IDOR, JWT, cloud misconfig, JS secrets and more. |
+
+---
+
+## `$ nmap -sV ctf_platforms`
+
+<div align="center">
+
+<a href="https://app.hackthebox.com/users/588340"><img src="https://www.hackthebox.com/badge/image/588340" alt="Hack The Box"/></a>
+<br/><br/>
+<a href="https://tryhackme.com/p/CYbErXV3nOm"><img src="https://tryhackme-badges.s3.amazonaws.com/CYbErXV3nOm.png" alt="TryHackMe"/></a>
+
+</div>
+
+---
+
+## `$ gh stats --user v3nomtech`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=v3nomtech&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3nomtech&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117" />
+
+<img src="https://streak-stats.demolab.com?user=v3nomtech&theme=chartreuse-dark&hide_border=true&background=0d1117" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=v3nomtech&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+<div align="center">
+
+```
+┌──(v3nom㉿kali)-[~]
+└─$ echo "Open to threat hunting, CTI, malware research & collab on CTFs — DMs are open."
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00ff9c,100:0d1117&height=110&section=footer" width="100%"/>
+
+</div>
