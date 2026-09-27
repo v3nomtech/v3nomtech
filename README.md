@@ -10,9 +10,9 @@
 <!-- TODO: replace with your portfolio URL once hosted -->
 <a href="https://v3nomtech.github.io"><img src="https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=gnometerminal&logoColor=black"/></a>
 <!-- TODO: replace YOUR-LINKEDIN with your LinkedIn handle -->
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/venomtech/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <!-- TODO: replace with your contact email -->
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:venomtechofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://x.com/venom_tech_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
 <a href="https://medium.com/@venomtechofficial"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
@@ -59,9 +59,9 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- TODO: keep these current -->
 | | |
 |---|---|
-| 🧬 **Currently reversing** | `<malware family / sample>` |
-| 🔎 **Currently hunting** | `<technique or campaign, e.g. LOLBin abuse / Kerberoasting>` |
-| 📚 **Currently studying** | `<next cert from the roadmap below>` |
+| 🧬 **Currently reversing** | `GentleMan Ransomware` |
+| 🔎 **Currently hunting** | `LOLBin abuse / Kerberoasting` |
+| 📚 **Currently studying** | `CRTO` |
 | 🤝 **Open to** | Threat hunting / CTI / DFIR roles, malware research, CTF team-ups |
 
 ---
@@ -143,20 +143,9 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- TODO: replace with your real programs (link to the HoF page where possible) -->
 | Program | Recognition | Vulnerability Class | Year |
 |---|---|---|:---:|
-| [`<Company>`](https://example.com/security/hall-of-fame) | Hall of Fame | `<e.g. IDOR>` | 20XX |
-| [`<Company>`](https://example.com/security/hall-of-fame) | Hall of Fame | `<e.g. Stored XSS>` | 20XX |
-| `<Company>` | 💰 Bounty | `<e.g. SSRF>` | 20XX |
-
-</details>
-
-<details>
-<summary><b>🐞 CVEs</b></summary>
-<br/>
-
-<!-- TODO: add CVEs assigned to your findings, or delete this block -->
-| CVE | Product | Type | Severity |
-|---|---|---|:---:|
-| [CVE-20XX-XXXXX](https://nvd.nist.gov/vuln/detail/CVE-20XX-XXXXX) | `<product>` | `<type>` | `<CVSS>` |
+| [`Kommunicate`](https://www.kommunicate.io/hall-of-fame) | Hall of Fame | `IDOR>` | 20XX |
+| [`BOSCH`](https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html) | Hall of Fame | `RCE` | 20XX |
+| `Marasoft` | 💰 Bounty | `PII` | 20XX |
 
 </details>
 
@@ -328,18 +317,6 @@ _Feed will populate on the first workflow run._
 </picture>
 
 </div>
-
----
-
-## `$ gpg --fingerprint v3nom`
-
-<!-- TODO: replace with your real key, or delete this section -->
-```text
-pub   ed25519 20XX-XX-XX [SC]
-      XXXX XXXX XXXX XXXX XXXX  XXXX XXXX XXXX XXXX XXXX
-uid   V3nom <you@example.com>
-```
-> 🔐 Found a vuln in one of my projects? Encrypt your report with the key above — [`keys.openpgp.org`](https://keys.openpgp.org/).
 
 ---
 
