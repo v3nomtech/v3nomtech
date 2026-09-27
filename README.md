@@ -23,7 +23,6 @@
 
 ```yaml
 name        : V3nom
-location    : India 🇮🇳
 role        : [Threat Hunter, Threat Intelligence Analyst, Reverse Engineer, Security Researcher]
 background  : SOC operations — alert triage, incident response, detection engineering
 focus       :
