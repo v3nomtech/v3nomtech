@@ -123,28 +123,15 @@ motto       : "Think like the adversary. Hunt like the defender."
 ```
 
 <details open>
-<summary><b>🏆 CTF Wins</b></summary>
-<br/>
-
-<!-- TODO: replace with your real events -->
-| Event | Result | Year | Write-up |
-|---|:---:|:---:|:---:|
-| `<CTF name>` | 🥇 1st | 20XX | [📝](https://medium.com/@venomtechofficial) |
-| `<CTF name>` | 🥈 2nd | 20XX | [📝](https://medium.com/@venomtechofficial) |
-| `<CTF name>` | 🥉 3rd | 20XX | [📝](https://medium.com/@venomtechofficial) |
-
-</details>
-
-<details open>
 <summary><b>🎖️ Hall of Fame & Bug Bounties</b></summary>
 <br/>
 
 <!-- TODO: replace with your real programs (link to the HoF page where possible) -->
 | Program | Recognition | Vulnerability Class | Year |
 |---|---|---|:---:|
-| [`Kommunicate`](https://www.kommunicate.io/hall-of-fame) | Hall of Fame | `IDOR>` | 20XX |
-| [`BOSCH`](https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html) | Hall of Fame | `RCE` | 20XX |
-| `Marasoft` | 💰 Bounty | `PII` | 20XX |
+| [`Kommunicate`](https://www.kommunicate.io/hall-of-fame) | Hall of Fame | `IDOR>` | 2023 |
+| [`BOSCH`](https://psirt.bosch.com/hall-of-fame/websites-hall-of-fame.html) | Hall of Fame | `RCE` | 2025 |
+| `Marasoft` | 💰 Bounty | `PII` | 2025 |
 
 </details>
 
