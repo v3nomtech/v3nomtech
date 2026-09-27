@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="380" viewBox="0 0 820 380" font-family="'JetBrains Mono','Fira Code',Consolas,'DejaVu Sans Mono',monospace" font-size="14">
+  <style>
+    .line { opacity: 0; animation: show 0.01s forwards; }
+    .p  { fill: #00ff9c; }
+    .u  { fill: #3b82f6; font-weight: bold; }
+    .t  { fill: #e6edf3; }
+    .d  { fill: #8b949e; }
+    .ok { fill: #00ff9c; }
+    .w  { fill: #f0b429; }
+    .r  { fill: #ff5f56; }
+    @keyframes show { to { opacity: 1; } }
+    @keyframes blink { 50% { opacity: 0; } }
+    .cursor { animation: blink 1s step-end infinite; }
+  </style>
+
+  <!-- window -->
+  <rect width="820" height="380" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <rect width="820" height="34" rx="10" fill="#161b22"/>
+  <rect y="24" width="820" height="10" fill="#161b22"/>
+  <circle cx="20" cy="17" r="6" fill="#ff5f56"/>
+  <circle cx="40" cy="17" r="6" fill="#ffbd2e"/>
+  <circle cx="60" cy="17" r="6" fill="#27c93f"/>
+  <text x="410" y="22" text-anchor="middle" class="d" font-size="12">v3nom@kali: ~</text>
+
+  <!-- session -->
+  <g transform="translate(20,62)">
+    <text class="line" style="animation-delay:0.3s"><tspan class="p">┌──(</tspan><tspan class="u">v3nom㉿kali</tspan><tspan class="p">)-[</tspan><tspan class="t">~</tspan><tspan class="p">]</tspan></text>
+    <text y="22" class="line" style="animation-delay:0.6s"><tspan class="p">└─$ </tspan><tspan class="t">whoami</tspan></text>
+    <text y="44" class="line t" style="animation-delay:1.2s">v3nom — threat hunter · threat intel · reverse engineer · security researcher</text>
+
+    <text y="76" class="line" style="animation-delay:2.0s"><tspan class="p">└─$ </tspan><tspan class="t">cat certs.txt</tspan></text>
+    <text y="98" class="line" style="animation-delay:2.6s"><tspan class="ok">[✔] </tspan><tspan class="t">CPTS · CJCA · SC-200 · eJPT</tspan><tspan class="d">   // + HTB Pro Labs: Dante, RastaLabs</tspan></text>
+
+    <text y="130" class="line" style="animation-delay:3.4s"><tspan class="p">└─$ </tspan><tspan class="t">./hunt --mitre --telemetry edr,siem,netflow</tspan></text>
+    <text y="152" class="line" style="animation-delay:4.0s"><tspan class="w">[*] </tspan><tspan class="t">loading hypotheses ............................. </tspan><tspan class="ok">done</tspan></text>
+    <text y="174" class="line" style="animation-delay:4.6s"><tspan class="w">[*] </tspan><tspan class="t">correlating IOCs against CTI feeds ............. </tspan><tspan class="ok">done</tspan></text>
+    <text y="196" class="line" style="animation-delay:5.2s"><tspan class="r">[!] </tspan><tspan class="t">T1055 Process Injection  →  </tspan><tspan class="r">beacon detected</tspan></text>
+    <text y="218" class="line" style="animation-delay:5.8s"><tspan class="w">[*] </tspan><tspan class="t">dumping sample → ghidra ........................ </tspan><tspan class="ok">reversed</tspan></text>
+    <text y="240" class="line" style="animation-delay:6.4s"><tspan class="ok">[+] </tspan><tspan class="t">yara + sigma rules shipped · C2 blocked · actor profiled</tspan></text>
+
+    <text y="272" class="line" style="animation-delay:7.2s"><tspan class="p">└─$ </tspan><tspan class="t">echo $MOTTO</tspan></text>
+    <text y="294" class="line" style="animation-delay:7.8s"><tspan class="p">Think like the adversary. Hunt like the defender.</tspan></text>
+
+    <text y="316" class="line" style="animation-delay:8.4s"><tspan class="p">└─$ </tspan><tspan class="p cursor">█</tspan></text>
+  </g>
+</svg>

@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="330" viewBox="0 0 840 330" font-family="'JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace">
+  <!--
+    MITRE ATT&CK hunt coverage. Edit freely:
+    - Tile fill = coverage level:  #00ff9c high · #00b86f medium · #0e5c3a low · #21262d none
+    - Technique IDs under each tactic = techniques you actively hunt / have detections for.
+  -->
+  <style>
+    .title { fill:#e6edf3; font-size:15px; font-weight:bold; }
+    .tac   { fill:#0d1117; font-size:10px; font-weight:bold; }
+    .tacL  { fill:#e6edf3; font-size:10px; font-weight:bold; }
+    .tech  { fill:#c9d1d9; font-size:10px; }
+    .leg   { fill:#8b949e; font-size:11px; }
+  </style>
+  <rect width="840" height="330" rx="10" fill="#0d1117" stroke="#30363d"/>
+  <text x="20" y="30" class="title">MITRE ATT&amp;CK® — Hunt &amp; Detection Coverage</text>
+
+  <!-- 7 columns x 2 rows, tile 110x120 -->
+  <g transform="translate(20,48)">
+    <!-- row 1 -->
+    <g><rect width="108" height="26" rx="4" fill="#00b86f"/><text x="54" y="17" text-anchor="middle" class="tac">RECON</text>
+      <text x="6" y="44" class="tech">T1595 Scanning</text><text x="6" y="60" class="tech">T1592 Host Info</text><text x="6" y="76" class="tech">T1589 Identity</text></g>
+    <g transform="translate(116,0)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">INITIAL ACCESS</text>
+      <text x="6" y="44" class="tech">T1566 Phishing</text><text x="6" y="60" class="tech">T1190 Exploit App</text><text x="6" y="76" class="tech">T1078 Valid Accts</text></g>
+    <g transform="translate(232,0)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">EXECUTION</text>
+      <text x="6" y="44" class="tech">T1059 Scripting</text><text x="6" y="60" class="tech">T1047 WMI</text><text x="6" y="76" class="tech">T1204 User Exec</text></g>
+    <g transform="translate(348,0)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">PERSISTENCE</text>
+      <text x="6" y="44" class="tech">T1053 Sched Task</text><text x="6" y="60" class="tech">T1547 Run Keys</text><text x="6" y="76" class="tech">T1543 Services</text></g>
+    <g transform="translate(464,0)"><rect width="108" height="26" rx="4" fill="#00b86f"/><text x="54" y="17" text-anchor="middle" class="tac">PRIV ESC</text>
+      <text x="6" y="44" class="tech">T1068 Exploit</text><text x="6" y="60" class="tech">T1134 Token Manip</text><text x="6" y="76" class="tech">T1548 UAC Bypass</text></g>
+    <g transform="translate(580,0)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">DEFENSE EVASION</text>
+      <text x="6" y="44" class="tech">T1055 Injection</text><text x="6" y="60" class="tech">T1027 Obfuscation</text><text x="6" y="76" class="tech">T1562 Impair Def</text></g>
+    <g transform="translate(696,0)"><rect width="104" height="26" rx="4" fill="#00ff9c"/><text x="52" y="17" text-anchor="middle" class="tac">CRED ACCESS</text>
+      <text x="6" y="44" class="tech">T1003 LSASS</text><text x="6" y="60" class="tech">T1558 Kerberoast</text><text x="6" y="76" class="tech">T1110 Brute Force</text></g>
+
+    <!-- row 2 -->
+    <g transform="translate(0,110)"><rect width="108" height="26" rx="4" fill="#00b86f"/><text x="54" y="17" text-anchor="middle" class="tac">DISCOVERY</text>
+      <text x="6" y="44" class="tech">T1087 Accounts</text><text x="6" y="60" class="tech">T1018 Remote Sys</text><text x="6" y="76" class="tech">T1482 Domain Trust</text></g>
+    <g transform="translate(116,110)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">LATERAL MOVE</text>
+      <text x="6" y="44" class="tech">T1021 Remote Svc</text><text x="6" y="60" class="tech">T1550 Pass-the-X</text><text x="6" y="76" class="tech">T1570 Tool Xfer</text></g>
+    <g transform="translate(232,110)"><rect width="108" height="26" rx="4" fill="#0e5c3a"/><text x="54" y="17" text-anchor="middle" class="tacL">COLLECTION</text>
+      <text x="6" y="44" class="tech">T1560 Archive</text><text x="6" y="60" class="tech">T1005 Local Data</text></g>
+    <g transform="translate(348,110)"><rect width="108" height="26" rx="4" fill="#00ff9c"/><text x="54" y="17" text-anchor="middle" class="tac">C2</text>
+      <text x="6" y="44" class="tech">T1071 App Proto</text><text x="6" y="60" class="tech">T1573 Encrypted</text><text x="6" y="76" class="tech">T1105 Ingress</text></g>
+    <g transform="translate(464,110)"><rect width="108" height="26" rx="4" fill="#00b86f"/><text x="54" y="17" text-anchor="middle" class="tac">EXFILTRATION</text>
+      <text x="6" y="44" class="tech">T1041 Over C2</text><text x="6" y="60" class="tech">T1567 Web Svc</text></g>
+    <g transform="translate(580,110)"><rect width="108" height="26" rx="4" fill="#00b86f"/><text x="54" y="17" text-anchor="middle" class="tac">IMPACT</text>
+      <text x="6" y="44" class="tech">T1486 Ransomware</text><text x="6" y="60" class="tech">T1490 Inhibit Rec</text></g>
+    <g transform="translate(696,110)"><rect width="104" height="26" rx="4" fill="#0e5c3a"/><text x="52" y="17" text-anchor="middle" class="tacL">RESOURCE DEV</text>
+      <text x="6" y="44" class="tech">T1583 Infra</text><text x="6" y="60" class="tech">T1588 Capabilities</text></g>
+  </g>
+
+  <!-- legend -->
+  <g transform="translate(20,300)">
+    <rect width="12" height="12" rx="2" fill="#00ff9c"/><text x="18" y="10" class="leg">High</text>
+    <rect x="70" width="12" height="12" rx="2" fill="#00b86f"/><text x="88" y="10" class="leg">Medium</text>
+    <rect x="156" width="12" height="12" rx="2" fill="#0e5c3a"/><text x="174" y="10" class="leg">Low</text>
+    <text x="800" y="10" text-anchor="end" class="leg">Techniques actively hunted / covered by detections</text>
+  </g>
+</svg>
