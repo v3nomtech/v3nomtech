@@ -192,7 +192,13 @@ motto       : "Think like the adversary. Hunt like the defender."
 > 🚨 Latest vulnerabilities added to the **CISA Known Exploited Vulnerabilities** catalog — refreshed daily by a GitHub Action.
 
 <!-- KEV-START -->
-_Feed will populate on the first workflow run._
+| CVE | Vendor / Product | Vulnerability | Added | Ransomware |
+|---|---|---|---|:---:|
+| [CVE-2026-88772](https://nvd.nist.gov/vuln/detail/CVE-2026-88772) | Citrix NetScaler | Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability | 2026-09-27 | — |
+| [CVE-2026-88771](https://nvd.nist.gov/vuln/detail/CVE-2026-88771) | Citrix NetScaler | Citrix NetScaler Improper Input Validation Vulnerability | 2026-09-27 | — |
+| [CVE-2026-87902](https://nvd.nist.gov/vuln/detail/CVE-2026-87902) | WordPress Core | WordPress Core Remote File Inclusion Vulnerability | 2026-09-25 | — |
+| [CVE-2026-67279](https://nvd.nist.gov/vuln/detail/CVE-2026-67279) | MikroTik RouterOS | Mikrotik RouterOS Improper Enforcement of Behavioral Workflow Vulnerability | 2026-09-25 | — |
+| [CVE-2026-65660](https://nvd.nist.gov/vuln/detail/CVE-2026-65660) | Microsoft SharePoint | Microsoft SharePoint Code Injection Vulnerability | 2026-09-25 | — |
 <!-- KEV-END -->
 
 ---
