@@ -19,21 +19,22 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Runs before snk: snk's Docker container creates dist/ as root otherwise
+      - name: Generate stats, languages, activity & pin cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/gen_cards.py ${{ github.repository_owner }} dist V3nom-Intel v3nomEyE
+
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#00ff9c&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353
-
-      - uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Generate stats, languages, activity & pin cards
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python scripts/gen_cards.py ${{ github.repository_owner }} dist V3nom-Intel v3nomEyE
 
       - uses: crazy-max/ghaction-github-pages@v4
         with:
