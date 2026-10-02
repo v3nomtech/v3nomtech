@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-104286](https://nvd.nist.gov/vuln/detail/CVE-2026-104286) | Fortinet FortiMail | Fortinet FortiMail Path Traversal Vulnerability | 2026-10-01 | — |
 | [CVE-2026-76504](https://nvd.nist.gov/vuln/detail/CVE-2026-76504) | Cisco Catalyst SD-WAN Manager | Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability | 2026-09-30 | — |
 | [CVE-2026-86950](https://nvd.nist.gov/vuln/detail/CVE-2026-86950) | Apple Multiple Products | Apple Multiple Products Out-of-Bounds Write Vulnerability | 2026-09-29 | — |
 | [CVE-2026-88772](https://nvd.nist.gov/vuln/detail/CVE-2026-88772) | Citrix NetScaler | Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability | 2026-09-27 | — |
 | [CVE-2026-88771](https://nvd.nist.gov/vuln/detail/CVE-2026-88771) | Citrix NetScaler | Citrix NetScaler Improper Input Validation Vulnerability | 2026-09-27 | — |
-| [CVE-2026-87902](https://nvd.nist.gov/vuln/detail/CVE-2026-87902) | WordPress Core | WordPress Core Remote File Inclusion Vulnerability | 2026-09-25 | — |
 <!-- KEV-END -->
 
 ---
