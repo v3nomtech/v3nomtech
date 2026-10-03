@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="495" height="215" viewBox="0 0 495 215">
+<style>
+  .t { font: 600 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #00ff9c; }
+  .l { font: 400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #c9d1d9; }
+  .v { font: 700 14px 'JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace; fill: #c9d1d9; }
+  .m { font: 400 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #8b949e; }
+  .fade { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="494" height="214" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" class="t">VENOM&#x27;s GitHub Stats</text>
+<g class="fade" style="animation-delay:150ms"><text x="25" y="70" class="v" fill="#00ff9c" style="fill:#00ff9c">★</text><text x="50" y="70" class="l">Total stars:</text><text x="260" y="70" class="v">10</text></g>
+<g class="fade" style="animation-delay:270ms"><text x="25" y="94" class="v" fill="#00ff9c" style="fill:#00ff9c">⎇</text><text x="50" y="94" class="l">Commits (last year):</text><text x="260" y="94" class="v">56</text></g>
+<g class="fade" style="animation-delay:390ms"><text x="25" y="118" class="v" fill="#00ff9c" style="fill:#00ff9c">⇄</text><text x="50" y="118" class="l">Pull requests:</text><text x="260" y="118" class="v">3</text></g>
+<g class="fade" style="animation-delay:510ms"><text x="25" y="142" class="v" fill="#00ff9c" style="fill:#00ff9c">!</text><text x="50" y="142" class="l">Issues:</text><text x="260" y="142" class="v">0</text></g>
+<g class="fade" style="animation-delay:630ms"><text x="25" y="166" class="v" fill="#00ff9c" style="fill:#00ff9c">▣</text><text x="50" y="166" class="l">Public repos:</text><text x="260" y="166" class="v">10</text></g>
+<g class="fade" style="animation-delay:750ms"><text x="25" y="190" class="v" fill="#00ff9c" style="fill:#00ff9c">◉</text><text x="50" y="190" class="l">Followers:</text><text x="260" y="190" class="v">17</text></g>
+<g class="fade" style="animation-delay:900ms" transform="translate(385,112)"><circle r="48" fill="none" stroke="#30363d" stroke-width="6"/><circle r="48" fill="none" stroke="#00ff9c" stroke-width="6" stroke-linecap="round" stroke-dasharray="301.6" stroke-dashoffset="0" transform="rotate(-90)"/><text y="6" text-anchor="middle" class="v" style="font-size:20px;fill:#00ff9c">66</text><text y="26" text-anchor="middle" class="m">contribs/yr</text></g>
+</svg>
