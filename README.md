@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
-| [CVE-2026-88779](https://nvd.nist.gov/vuln/detail/CVE-2026-88779) | Citrix NetScaler | Citrix NetScaler Improper Restriction of Operations within the Bounds of a Memory Buffer Vulnerability | 2026-10-04 | — |
-| [CVE-2026-102490](https://nvd.nist.gov/vuln/detail/CVE-2026-102490) | Zammad GmbH Zammad | Zammad GmbH Zammad Improper Privilege Management Vulnerability | 2026-10-02 | — |
-| [CVE-2026-102489](https://nvd.nist.gov/vuln/detail/CVE-2026-102489) | Zammad GmbH Zammad | Zammad GmbH Zammad Session Fixation Vulnerability | 2026-10-02 | — |
-| [CVE-2026-104286](https://nvd.nist.gov/vuln/detail/CVE-2026-104286) | Fortinet FortiMail | Fortinet FortiMail Path Traversal Vulnerability | 2026-10-01 | — |
-| [CVE-2026-76504](https://nvd.nist.gov/vuln/detail/CVE-2026-76504) | Cisco Catalyst SD-WAN Manager | Cisco Catalyst SD-WAN Manager Hex Encoding Vulnerability | 2026-09-30 | — |
+| [CVE-2023-22894](https://nvd.nist.gov/vuln/detail/CVE-2023-22894) | Strapi Strapi | Strapi Cleartext Storage of Sensitive Information Vulnerability | 2026-10-08 | — |
+| [CVE-2021-3199](https://nvd.nist.gov/vuln/detail/CVE-2021-3199) | ONLYOFFICE Docs | ONLYOFFICE Docs Server Path Traversal Vulnerability | 2026-10-08 | — |
+| [CVE-2016-3081](https://nvd.nist.gov/vuln/detail/CVE-2016-3081) | Apache Struts | Apache Struts Command Injection Vulnerability | 2026-10-08 | — |
+| [CVE-2015-5477](https://nvd.nist.gov/vuln/detail/CVE-2015-5477) | ISC BIND | ISC BIND Data Processing Errors Vulnerability | 2026-10-08 | — |
+| [CVE-2015-3306](https://nvd.nist.gov/vuln/detail/CVE-2015-3306) | ProFTPD ProFTPD | ProFTPD Improper Access Control Vulnerability | 2026-10-08 | — |
 <!-- KEV-END -->
 
 ---
