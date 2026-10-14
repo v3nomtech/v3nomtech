@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-96951](https://nvd.nist.gov/vuln/detail/CVE-2026-96951) | Microsoft Windows | Microsoft Windows Command Injection Vulnerability | 2026-10-13 | — |
+| [CVE-2026-104935](https://nvd.nist.gov/vuln/detail/CVE-2026-104935) | Ivanti Connect Secure | Ivanti Connect Secure Authentication Bypass by Spoofing Vulnerability | 2026-10-13 | — |
 | [CVE-2023-22894](https://nvd.nist.gov/vuln/detail/CVE-2023-22894) | Strapi Strapi | Strapi Cleartext Storage of Sensitive Information Vulnerability | 2026-10-08 | — |
 | [CVE-2021-3199](https://nvd.nist.gov/vuln/detail/CVE-2021-3199) | ONLYOFFICE Docs | ONLYOFFICE Docs Server Path Traversal Vulnerability | 2026-10-08 | — |
 | [CVE-2016-3081](https://nvd.nist.gov/vuln/detail/CVE-2016-3081) | Apache Struts | Apache Struts Command Injection Vulnerability | 2026-10-08 | — |
-| [CVE-2015-5477](https://nvd.nist.gov/vuln/detail/CVE-2015-5477) | ISC BIND | ISC BIND Data Processing Errors Vulnerability | 2026-10-08 | — |
-| [CVE-2015-3306](https://nvd.nist.gov/vuln/detail/CVE-2015-3306) | ProFTPD ProFTPD | ProFTPD Improper Access Control Vulnerability | 2026-10-08 | — |
 <!-- KEV-END -->
 
 ---
