@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-21589](https://nvd.nist.gov/vuln/detail/CVE-2026-21589) | Atlassian Multiple Products | Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability | 2026-10-15 | — |
 | [CVE-2026-76519](https://nvd.nist.gov/vuln/detail/CVE-2026-76519) | Cisco Secure Email Gateway | Cisco Secure Email Gateway Relative Path Traversal Vulnerability | 2026-10-14 | — |
 | [CVE-2026-105134](https://nvd.nist.gov/vuln/detail/CVE-2026-105134) | Ahsay AhsayCBS | Ahsay AhsayCBS Command Injection Vulnerability | 2026-10-14 | — |
 | [CVE-2026-105133](https://nvd.nist.gov/vuln/detail/CVE-2026-105133) | Ahsay AhsayCBS | Ahsay AhsayCBS Improper Authentication Vulnerability | 2026-10-14 | — |
 | [CVE-2026-0322](https://nvd.nist.gov/vuln/detail/CVE-2026-0322) | Palo Alto Networks PAN-OS | Palo Alto Networks PAN-OS Code Injection Vulnerability | 2026-10-14 | — |
-| [CVE-2026-96951](https://nvd.nist.gov/vuln/detail/CVE-2026-96951) | Microsoft Windows | Microsoft Windows Command Injection Vulnerability | 2026-10-13 | — |
 <!-- KEV-END -->
 
 ---
