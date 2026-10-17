@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="165" viewBox="0 0 420 165">
+<style>
+  .t { font: 600 17px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #00ff9c; }
+  .l { font: 400 14px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #c9d1d9; }
+  .v { font: 700 14px 'JetBrains Mono',Consolas,'DejaVu Sans Mono',monospace; fill: #c9d1d9; }
+  .m { font: 400 12px 'Segoe UI',Ubuntu,'Helvetica Neue',Sans-Serif; fill: #8b949e; }
+  .fade { opacity: 0; animation: in .5s ease-out forwards; }
+  @keyframes in { to { opacity: 1; } }
+</style>
+<rect x="0.5" y="0.5" width="419" height="164" rx="6" fill="#0d1117" stroke="#30363d"/>
+<text x="25" y="35" class="t">v3nomEyE</text>
+<text x="25" y="65" class="m" style="font-size:13px">Automated P1 bug bounty framework — 17-phase recon</text>
+<text x="25" y="85" class="m" style="font-size:13px">pipeline covering XSS, SQLi, SSRF, IDOR, JWT, cloud</text>
+<text x="25" y="105" class="m" style="font-size:13px">misconfig, JS secrets &amp; more. One command from subdomain…</text>
+<circle cx="31" cy="138" r="6" fill="#3572A5"/>
+<text x="43" y="143" class="l" style="font-size:13px">Python</text>
+<text x="103" y="143" class="l" style="font-size:13px">★ 7</text>
+<text x="163" y="143" class="l" style="font-size:13px">⑂ 2</text>
+</svg>
