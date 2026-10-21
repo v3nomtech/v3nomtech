@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
-| [CVE-2026-102764](https://nvd.nist.gov/vuln/detail/CVE-2026-102764) | BeyondTrust Remote Support | BeyondTrust Remote Support Authentication Bypass by Spoofing Vulnerability | 2026-10-16 | — |
-| [CVE-2025-61624](https://nvd.nist.gov/vuln/detail/CVE-2025-61624) | Fortinet Multiple Products | Fortinet Multiple Products Path Traversal Vulnerability | 2026-10-16 | — |
-| [CVE-2026-21589](https://nvd.nist.gov/vuln/detail/CVE-2026-21589) | Atlassian Multiple Products | Atlassian Multiple Products Files or Directories Accessible to External Parties Vulnerability | 2026-10-15 | — |
-| [CVE-2026-76519](https://nvd.nist.gov/vuln/detail/CVE-2026-76519) | Cisco Secure Email Gateway | Cisco Secure Email Gateway Relative Path Traversal Vulnerability | 2026-10-14 | — |
-| [CVE-2026-105134](https://nvd.nist.gov/vuln/detail/CVE-2026-105134) | Ahsay AhsayCBS | Ahsay AhsayCBS Command Injection Vulnerability | 2026-10-14 | — |
+| [CVE-2026-96656](https://nvd.nist.gov/vuln/detail/CVE-2026-96656) | Plex Media Server | Plex Media Server External Control of File Name or Path Vulnerability | 2026-10-20 | — |
+| [CVE-2026-96655](https://nvd.nist.gov/vuln/detail/CVE-2026-96655) | Plex Media Server | Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability | 2026-10-20 | — |
+| [CVE-2026-96654](https://nvd.nist.gov/vuln/detail/CVE-2026-96654) | Plex Media Server | Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability | 2026-10-20 | — |
+| [CVE-2026-96652](https://nvd.nist.gov/vuln/detail/CVE-2026-96652) | Plex Media Server | Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability | 2026-10-20 | — |
+| [CVE-2026-110936](https://nvd.nist.gov/vuln/detail/CVE-2026-110936) | Siemens Software Center | Siemens Software Center Uncontrolled Search Path Element Vulnerability | 2026-10-20 | — |
 <!-- KEV-END -->
 
 ---
