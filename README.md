@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-109619](https://nvd.nist.gov/vuln/detail/CVE-2026-109619) | PHP Group PHP | PHP Stale Internal Request-State Vulnerability | 2026-10-26 | — |
+| [CVE-2026-109618](https://nvd.nist.gov/vuln/detail/CVE-2026-109618) | PHP Group PHP | PHP Memory Corruption Vulnerability | 2026-10-26 | — |
 | [CVE-2026-114625](https://nvd.nist.gov/vuln/detail/CVE-2026-114625) | Arista VeloCloud Orchestrator | Arista VeloCloud Orchestrator SQL Injection Vulnerability | 2026-10-23 | — |
 | [CVE-2026-110447](https://nvd.nist.gov/vuln/detail/CVE-2026-110447) | Collabora Collabora Online – Built-in CODE Server | Collabora Online – Built-in CODE Server OS Command Injection Vulnerability | 2026-10-23 | — |
 | [CVE-2026-96656](https://nvd.nist.gov/vuln/detail/CVE-2026-96656) | Plex Media Server | Plex Media Server External Control of File Name or Path Vulnerability | 2026-10-20 | — |
-| [CVE-2026-96655](https://nvd.nist.gov/vuln/detail/CVE-2026-96655) | Plex Media Server | Plex Media Server Server-Side Request Forgery (SSRF) Vulnerability | 2026-10-20 | — |
-| [CVE-2026-96654](https://nvd.nist.gov/vuln/detail/CVE-2026-96654) | Plex Media Server | Plex Media Server Improper Neutralization of Encoded URI Schemes in a Web Page Vulnerability | 2026-10-20 | — |
 <!-- KEV-END -->
 
 ---
