@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-46300](https://nvd.nist.gov/vuln/detail/CVE-2026-46300) | Linux Kernel | Linux Kernel Missing Initialization of a Variable Vulnerability | 2026-10-28 | — |
+| [CVE-2026-41709](https://nvd.nist.gov/vuln/detail/CVE-2026-41709) | Broadcom VMware ESX | Broadcom VMWare ESX Insufficient Logging Vulnerability | 2026-10-28 | — |
 | [CVE-2026-48356](https://nvd.nist.gov/vuln/detail/CVE-2026-48356) | Adobe Commerce and Magento | Adobe Commerce and Magento Unrestricted Upload of File with Dangerous Type Vulnerability | 2026-10-27 | — |
 | [CVE-2026-111497](https://nvd.nist.gov/vuln/detail/CVE-2026-111497) | Google Brotli | Google Brotli Unchecked Return Value Vulnerability | 2026-10-27 | — |
 | [CVE-2026-109619](https://nvd.nist.gov/vuln/detail/CVE-2026-109619) | PHP Group PHP | PHP Stale Internal Request-State Vulnerability | 2026-10-26 | — |
-| [CVE-2026-109618](https://nvd.nist.gov/vuln/detail/CVE-2026-109618) | PHP Group PHP | PHP Memory Corruption Vulnerability | 2026-10-26 | — |
-| [CVE-2026-114625](https://nvd.nist.gov/vuln/detail/CVE-2026-114625) | Arista VeloCloud Orchestrator | Arista VeloCloud Orchestrator SQL Injection Vulnerability | 2026-10-23 | — |
 <!-- KEV-END -->
 
 ---
