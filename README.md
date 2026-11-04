@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-119977](https://nvd.nist.gov/vuln/detail/CVE-2026-119977) | WordPress WordPress Core | WordPress WordPress Core Time-of-check Time-of-use (TOCTOU) Race Condition Vulnerability | 2026-11-03 | — |
 | [CVE-2026-118527](https://nvd.nist.gov/vuln/detail/CVE-2026-118527) | Ivanti Connect Secure | Ivanti Connect Secure Generation of Predictable Numbers or Identifiers Vulnerability | 2026-10-30 | — |
 | [CVE-2026-111357](https://nvd.nist.gov/vuln/detail/CVE-2026-111357) | Ivanti Connect Secure | Ivanti Connect Secure Missing Authentication for Critical Function Vulnerability | 2026-10-30 | — |
 | [CVE-2026-97229](https://nvd.nist.gov/vuln/detail/CVE-2026-97229) | GitLab Community Edition and Enterprise Edition | GitLab Community Edition and Enterprise Edition Integer Overflow or Wraparound Vulnerability | 2026-10-29 | — |
 | [CVE-2026-76418](https://nvd.nist.gov/vuln/detail/CVE-2026-76418) | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software | Cisco Secure Firewall ASA Software and Cisco Secure FTD Software Unchecked Return Value to NULL Pointer Dereference Vulnerability | 2026-10-29 | — |
-| [CVE-2026-46300](https://nvd.nist.gov/vuln/detail/CVE-2026-46300) | Linux Kernel | Linux Kernel Missing Initialization of a Variable Vulnerability | 2026-10-28 | — |
 <!-- KEV-END -->
 
 ---
