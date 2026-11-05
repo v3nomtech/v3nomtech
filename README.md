@@ -159,11 +159,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 
 <!-- Auto-updated by .github/workflows/blog-posts.yml -->
 <!-- BLOG-POST-LIST:START -->
+- 📝 [Patch Tuesday, Decoded: Ranking Microsoft Vulnerabilities by Real-World Risk](https://medium.com/@venomtechofficial/patch-tuesday-decoded-ranking-microsoft-vulnerabilities-by-real-world-risk-07f9ba9a7eb7?source=rss-f6f7f8fcfbab------2) <sub>· Nov 5, 2026</sub>
 - 📝 [Lazarus Group: How a Fake Job Offer Becomes a Kernel-Level Rootkit](https://medium.com/@venomtechofficial/lazarus-group-how-a-fake-job-offer-becomes-a-kernel-level-rootkit-c9cec61387fd?source=rss-f6f7f8fcfbab------2) <sub>· Nov 3, 2026</sub>
 - 📝 [The Same Adversary Has Nine Names](https://medium.com/@venomtechofficial/the-same-adversary-has-nine-names-f609f6a2cfce?source=rss-f6f7f8fcfbab------2) <sub>· Aug 23, 2026</sub>
 - 📝 [One Mailbox. One Terabyte. One Hard Lesson for Banking.](https://medium.com/@venomtechofficial/one-mailbox-one-terabyte-one-hard-lesson-for-banking-c105f848d47f?source=rss-f6f7f8fcfbab------2) <sub>· Jul 28, 2026</sub>
-- 📝 [Inside The Gentlemen Ransomware: Reverse Engineering &amp; Static Analysis](https://medium.com/@venomtechofficial/inside-the-gentlemen-ransomware-reverse-engineering-static-analysis-c1b5585fa93b?source=rss-f6f7f8fcfbab------2) <sub>· Jul 19, 2026</sub>
-- 📝 [Pester.bat: The PowerShell Test Runner That Attackers Turned Into a Weapon](https://medium.com/@venomtechofficial/pester-bat-the-powershell-test-runner-that-attackers-turned-into-a-weapon-c88332072fc0?source=rss-f6f7f8fcfbab------2) <sub>· Jun 30, 2026</sub><!-- BLOG-POST-LIST:END -->
+- 📝 [Inside The Gentlemen Ransomware: Reverse Engineering &amp; Static Analysis](https://medium.com/@venomtechofficial/inside-the-gentlemen-ransomware-reverse-engineering-static-analysis-c1b5585fa93b?source=rss-f6f7f8fcfbab------2) <sub>· Jul 19, 2026</sub><!-- BLOG-POST-LIST:END -->
 
 ---
 
