@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
-| [CVE-2026-123218](https://nvd.nist.gov/vuln/detail/CVE-2026-123218) | IBM Aspera Faspex | IBM Aspera Faspex Incorrect Authorization Vulnerability | 2026-11-09 | — |
-| [CVE-2026-123158](https://nvd.nist.gov/vuln/detail/CVE-2026-123158) | OpenBSD OpenSSH | OpenBSD OpenSSH Unexpected Status Code or Return Value Vulnerability | 2026-11-09 | — |
-| [CVE-2026-116779](https://nvd.nist.gov/vuln/detail/CVE-2026-116779) | SignalWire FreeSwitch | SignalWire FreeSwitch Code Injection Vulnerability | 2026-11-09 | — |
-| [CVE-2026-102895](https://nvd.nist.gov/vuln/detail/CVE-2026-102895) | GPUStack GPUStack | GPUStack Improper Authentication Vulnerability | 2026-11-09 | — |
-| [CVE-2026-19868](https://nvd.nist.gov/vuln/detail/CVE-2026-19868) | SonicWall SonicOS SSLVPN | SonicWall SonicOS SSLVPN Use of Single-factor Authentication Vulnerability | 2026-11-06 | — |
+| [CVE-2026-20320](https://nvd.nist.gov/vuln/detail/CVE-2026-20320) | Cisco BroadWorks | Cisco BroadWorks Improper Restriction of XML External Entity Reference Vulnerability | 2026-11-10 | — |
+| [CVE-2026-125350](https://nvd.nist.gov/vuln/detail/CVE-2026-125350) | Google Chromium | Google Chromium Use-After-Free Vulnerability | 2026-11-10 | — |
+| [CVE-2026-124194](https://nvd.nist.gov/vuln/detail/CVE-2026-124194) | Microsoft Office | Microsoft Office Outlook Missing User Interaction for Potentially Unsafe Action Vulnerability | 2026-11-10 | — |
+| [CVE-2026-116606](https://nvd.nist.gov/vuln/detail/CVE-2026-116606) | Barracuda Networks Barracuda Email Security Gateway (ESG) | Barracuda Networks Email Security Gateway (ESG) Authentication Bypass Using an Alternate Path or Channel Vulnerability | 2026-11-10 | — |
+| [CVE-2026-111793](https://nvd.nist.gov/vuln/detail/CVE-2026-111793) | Openwave Messaging Limited Webtop Media Transcoder | Openwave Messaging Limited Webtop Media Transcoder Incorrect Resource Transfer Between Spheres Vulnerability | 2026-11-10 | — |
 <!-- KEV-END -->
 
 ---
