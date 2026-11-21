@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-76466](https://nvd.nist.gov/vuln/detail/CVE-2026-76466) | Cisco Expressway Series | Cisco Expressway Series Use of Hard-coded Credentials Vulnerability | 2026-11-20 | — |
+| [CVE-2026-129448](https://nvd.nist.gov/vuln/detail/CVE-2026-129448) | Apache Roller | Apache Roller Deserialization of Untrusted Data Vulnerability | 2026-11-20 | — |
+| [CVE-2026-123890](https://nvd.nist.gov/vuln/detail/CVE-2026-123890) | Broadcom VMware vCenter | VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability | 2026-11-20 | — |
+| [CVE-2025-42884](https://nvd.nist.gov/vuln/detail/CVE-2025-42884) | SAP NetWeaver | SAP NetWeaver Improper Neutralization of Special Elements in Data Query Logic Vulnerability | 2026-11-20 | — |
 | [CVE-2026-90817](https://nvd.nist.gov/vuln/detail/CVE-2026-90817) | Vanderbilt University Research Electronic Data Capture (REDCap) | Vanderbilt University Research Electronic Data Capture (REDCap) Code Injection Vulnerability | 2026-11-18 | — |
-| [CVE-2026-90436](https://nvd.nist.gov/vuln/detail/CVE-2026-90436) | Apache Axis | Apache Axis Unsafe Reflection Vulnerability | 2026-11-18 | — |
-| [CVE-2026-40217](https://nvd.nist.gov/vuln/detail/CVE-2026-40217) | BerriAI LiteLLM | BerriAI LiteLLM Unprotected Alternate Channel Vulnerability | 2026-11-18 | — |
-| [CVE-2024-10441](https://nvd.nist.gov/vuln/detail/CVE-2024-10441) | Synology DiskStation Manager (DSM) | Synology DiskStation Manager (DSM) Improper Encoding or Escaping of Output Vulnerability | 2026-11-18 | — |
-| [CVE-2026-115731](https://nvd.nist.gov/vuln/detail/CVE-2026-115731) | Perforce Puppet Enterprise | Perforce Puppet Enterprise Deserialization of Untrusted Data Vulnerability | 2026-11-17 | — |
 <!-- KEV-END -->
 
 ---
