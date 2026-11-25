@@ -195,11 +195,11 @@ motto       : "Think like the adversary. Hunt like the defender."
 <!-- KEV-START -->
 | CVE | Vendor / Product | Vulnerability | Added | Ransomware |
 |---|---|---|---|:---:|
+| [CVE-2026-103406](https://nvd.nist.gov/vuln/detail/CVE-2026-103406) | Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router | Hewlett Packard Enterprise (HPE) Juniper Session Smart Conductor and Session Smart Router OS Command Injection Vulnerability | 2026-11-25 | — |
+| [CVE-2026-132224](https://nvd.nist.gov/vuln/detail/CVE-2026-132224) | Optimizely Web Experimentation | Optimizely Web Experimentation External Control of Critical State Data Vulnerability | 2026-11-24 | — |
+| [CVE-2026-132165](https://nvd.nist.gov/vuln/detail/CVE-2026-132165) | Drupal Core | Drupal Core Remote Code Execution Vulnerability | 2026-11-24 | — |
+| [CVE-2026-131914](https://nvd.nist.gov/vuln/detail/CVE-2026-131914) | Idunno AntiCsrf | Idunno AntiCsrf Deserialization of Untrusted Data Vulnerability | 2026-11-24 | — |
 | [CVE-2026-134624](https://nvd.nist.gov/vuln/detail/CVE-2026-134624) | N-able MailAssure | N-able MailAssure (SpamExperts) Server-Side Request Forgery (SSRF) Vulnerability | 2026-11-23 | — |
-| [CVE-2026-133968](https://nvd.nist.gov/vuln/detail/CVE-2026-133968) | Project MONAI MONAI Label | Project MONAI MONAI Label Path Traversal Vulnerability | 2026-11-23 | — |
-| [CVE-2026-76466](https://nvd.nist.gov/vuln/detail/CVE-2026-76466) | Cisco Expressway Series | Cisco Expressway Series Use of Hard-coded Credentials Vulnerability | 2026-11-20 | — |
-| [CVE-2026-129448](https://nvd.nist.gov/vuln/detail/CVE-2026-129448) | Apache Roller | Apache Roller Deserialization of Untrusted Data Vulnerability | 2026-11-20 | — |
-| [CVE-2026-123890](https://nvd.nist.gov/vuln/detail/CVE-2026-123890) | Broadcom VMware vCenter | VMWare vCenter Authentication Bypass Using an Alternate Path or Channel Vulnerability | 2026-11-20 | — |
 <!-- KEV-END -->
 
 ---
